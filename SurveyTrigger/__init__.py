@@ -10,12 +10,11 @@ import random
 
 import telegram
 import json
-from dotenv import load_dotenv
 import os
 
 
 def send_poll():
-    load_dotenv()
+    # load_dotenv()
 
     # apikey = os.getenv("TELEGRAM_TOKEN") #this was without azure functions
     #groupid = os.getenv("CHAT_ID")

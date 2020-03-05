@@ -1,6 +1,11 @@
 #Azure functions
 azure-functions-core-tools/**
 
+#VS Code settings
+
+.vscode/
+.vscode/settings.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -134,3 +139,5 @@ dmypy.json
 .python_packages
 local.settings.json
 azure-functions-core-tools/.telemetry/20200305124102_fb45881101c243ebb93cf4f13e6d440c.trn
+.DS_Store
+.vscode/settings.json

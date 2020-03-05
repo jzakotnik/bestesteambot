@@ -21,4 +21,5 @@ Follow these stepss to create the bestes-team-bot:
 - Create a new serverless Azure function in Python. The easiest way is to use the Azure extension in VSCode and click on "Add Azure function". This will create a bunch of files, e.g. the `local.settings.json`. Add
   - "CHAT_ID": <group ID>
   - "TELEGRAM_TOKEN": <API token>
+- Edit the file `questions.json` to insert the questions.
 - In Azure, setup a timer, that triggers your survey, e.g. on Fridays at 2pm.

@@ -53,5 +53,59 @@
     "nicht.",
     "Könnte nicht besser laufen",
     "Mal so mal so"
+  ],
+  "Ich weiß wofür wir unser Budget verwenden" :
+  [
+    "Ja, bis auf den letzten Cent",
+    "Keine Ahnung – für Dienstreisen?",
+    "Ich könnte es grob aufzählen, bin mir aber nicht sicher"
+  ],
+
+  "Auf der Arbeit motiviert mich" :
+  [
+    "Anerkennung aus dem Team",
+    "Spannende Themen",
+    "Guter Team Spirit",
+    "Mein Gehalt"
+  ],
+  "Müssen wir an einem Strang ziehen?" :
+  [
+    "Ja alle!",
+    "Nein, mehrere Stränge sind auch ok",
+    "Mir egal",
+    "Nein wir sind alle Einzelkämpfer"
+  ],
+  "Wie stark interessierst du dich für andere Themen aus dem Team?" :
+  [
+    "Gar nicht, meine Themen sind mir am wichtigsten",
+    "Mega! Bitte mehr Magic Mondays über Projekte",
+    "Infos im Daily reichen aus"
+  ],
+  "Der Fokus im Team liegt aktuell auf:" :
+  [
+    "Innovation",
+    "Digitalisierungsprojekte",
+    "Vieles aber nichts konkretes",
+  ],
+  "Zug zum Tor ist gerade" :
+  [
+    "Abstoß bei Manuel",
+    "Verteidigung bei Boateng",
+    "Geplänkel im Mittelfeld bei Matthäus",
+    "Götze schiieeeeesssstt und Tooor!"
+  ],
+  "Im Team läuft es gerade" :
+  [
+    "Sehr gut – Stimmung ist super!",
+    "Ach wir haben ein Team?",
+    "Okay, war aber schon mal besser",
+    "Schlecht, ich schreibe nur whoop whoop weil das erwartet wird"
+  ],
+  "In einem Jahr sehe ich mich" :
+  [
+    "Im DO",
+    "In der Company aber nicht im DO",
+    "Woanders",
+    "Frag mich morgen nochmal"
   ]
 }
